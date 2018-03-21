@@ -16,6 +16,7 @@ Curated list of FREE image hosting websites
 ## REFERENCE
 
 - [/r/imguralternatives](https://www.reddit.com/r/imguralternatives/)
+- [AlternativeTo Wiki - Imgur](https://alternativeto.net/software/imgur/)
 
 ***
 
